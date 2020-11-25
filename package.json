@@ -1,0 +1,17 @@
+{
+  "name": "cgpa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-fetch": "^2.5.7",
+    "csv-parser": "^2.3.3",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1"
+  }
+}
